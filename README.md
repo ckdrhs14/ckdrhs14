@@ -1,6 +1,6 @@
 
 <br>
-<h3 align="center">&#128512; <strong>HELLO</strong> &#128512;</h3>
+<h3 align="center"><strong>HELLO</strong> &#128512;</h3>
 <br>
 
 <hr>
