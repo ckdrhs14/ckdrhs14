@@ -1,7 +1,7 @@
 
 <br>
-<h3 align="center"><strong>HELLO</strong> &#128512;</h3>
-<p align="center">퍼블리셔에서 프론트엔드로 전향 중.....</p>
+<h3 align="center"><strong>Hello EveryBody</strong> &#128512;</h3>
+<p align="center">퍼블이에서 프론트엔드</p>
 
 <br>
 
