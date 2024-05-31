@@ -9,7 +9,19 @@
 
 <!--<b>💻 TECH STACK 💻</b>-->
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"> <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white"> <img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&amp;logo=greensock&amp;logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=Bootstrap&amp;logoColor=black"> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=WordPress&amp;logoColor=white"> <br> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&amp;logo=adobephotoshop&amp;logoColor=black"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"> <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=React&amp;logoColor=2361DAFB"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white"> <img src="https://img.shields.io/badge/tortoiseSVN-0769AD?style=flat-square&amp;logo=tortoiseSVN&amp;logoColor=white"> <img src="https://img.shields.io/badge/next.js-000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black">
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white">
+<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&amp;logo=greensock&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=Bootstrap&amp;logoColor=black">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=WordPress&amp;logoColor=white"> <br /> 
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&amp;logo=adobephotoshop&amp;logoColor=black">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=React&amp;logoColor=2361DAFB">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white">
+<img src="https://img.shields.io/badge/tortoiseSVN-0769AD?style=flat-square&amp;logo=tortoiseSVN&amp;logoColor=white"> <img src="https://img.shields.io/badge/next.js-000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
 </div>
 
 
