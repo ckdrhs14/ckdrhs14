@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/tortoiseSVN-0769AD?style=flat-square&amp;logo=tortoiseSVN&amp;logoColor=white"> <img src="https://img.shields.io/badge/next.js-000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
 </div>
 
+<br />
 
 
 <div align="center">
