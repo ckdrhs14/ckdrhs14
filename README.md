@@ -1,7 +1,7 @@
 
 <br>
 <h3 align="center"><strong>Hello EveryBody</strong> &#128512;</h3>
-<p align="center">퍼블이에서 프론트엔드</p>
+<p align="center">안녕하세요</p>
 
 <br>
 
